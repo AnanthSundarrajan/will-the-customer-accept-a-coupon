@@ -43,3 +43,4 @@ Owners may consider reducing operating hours during late evening and snowy condi
 
 ## Link to notebook
 [Link to notebook](Customer_coupon.ipynb)
+[Link to project report](Project Report-Coupons.pdf)
