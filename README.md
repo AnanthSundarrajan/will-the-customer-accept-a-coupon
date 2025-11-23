@@ -41,6 +41,6 @@ This data comes to us from the UCI Machine Learning repository and was collected
 Target Rainy Days and Mid-Morning: Marketing efforts for coffee house coupons would achieve maximum efficacy when disseminated around 10 AM on days experiencing rain.
 Owners may consider reducing operating hours during late evening and snowy conditions to realize cost savings.
 
-## Link to notebook
+## Link to files
 - [Link to notebook](Customer_coupon.ipynb)
-- [Link to project report](\Project Report-Coupons.pdf)
+- [Link to project report](https://github.com/AnanthSundarrajan/will-the-customer-accept-a-coupon/blob/main/Project%20Report-Coupons.pdf)
