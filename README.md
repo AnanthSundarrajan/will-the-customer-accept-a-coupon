@@ -42,5 +42,5 @@ Target Rainy Days and Mid-Morning: Marketing efforts for coffee house coupons wo
 Owners may consider reducing operating hours during late evening and snowy conditions to realize cost savings.
 
 ## Link to notebook
-[Link to notebook](Customer_coupon.ipynb)
-[Link to project report](Project Report-Coupons.pdf)
+- [Link to notebook](Customer_coupon.ipynb)
+- [Link to project report](\Project Report-Coupons.pdf)
